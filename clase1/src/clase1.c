@@ -22,4 +22,5 @@ scanf("%d", &numero2);
 resultado = numero1 + numero2;
 printf("resultado:%d", resultado);
 return 0;
+// nueva version
 }
